@@ -1,1 +1,9 @@
+Este repositório contém um sistema assimétrico numa versão multiprimos, com os arquivos:
+	Criptografia assimétrica – Algoritmo Multi-Primos.pdf: este contém os aspectos teóricos e exemplos a respeito do sistema multi-primo implementado. É importante para o entendimento do sistema.
+	Instruções sobre o uso do programa – Assimétrico Multiprimos.pdf: É fundamental a leitura deste arquivo, antes de testar as funcionalidades o Sistema.
+	Assimétrico.rar: contém o sistema implementado. Para a execução do mesmo, deve seguir o procedimento abaixo.
+- Clicar no Assimétrico.rar
+- Realizar o download
+- Descompactar e manter numa mesma pasta todos os arquivos provenientes da descompactação.
+- Executar o programa: Sistema Assimétrico_Multiprimo
 
